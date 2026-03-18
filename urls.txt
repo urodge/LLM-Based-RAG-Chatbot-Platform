@@ -1,0 +1,7 @@
+# Add one URL per line — these pages will be scraped and indexed
+# Lines starting with # are ignored
+
+# Example: hiring agency's public pages
+# https://yourcompany.com/jobs
+# https://yourcompany.com/about
+# https://yourcompany.com/faq
